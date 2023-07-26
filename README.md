@@ -10,6 +10,6 @@ This repository contains a project for the digital image processing course at Bo
 
 
 ## Here is an example
-![Ball detection](https://github.com/radiguzel/billiard-ball-detection/ball_detection.gif)
+![Ball detection](https://github.com/radiguzel/billiard-ball-detection/blob/main/ball_detection.gif)
 
-![Ball detection](https://github.com/radiguzel/billiard-ball-detection/white_ball_trajectory.jpg)
+![White ball trajectory](https://github.com/radiguzel/billiard-ball-detection/blob/main/white_ball_trajectory.jpg)
